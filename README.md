@@ -29,3 +29,7 @@ https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds
 
 Video Demo:
 https://youtube.com/shorts/zBjabYpsvgw?feature=share
+
+
+Grupo:
+- Gabriel Alessandro Da Luz Santos Do Nascimento
