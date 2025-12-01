@@ -25,7 +25,11 @@ npm install
 
 
 Link Expo Dev:
-https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds
+build Dev  (APK)
+https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/0d939822-5804-4716-9ae6-0b5271c4f4d1
+
+build Prod (AAB)
+https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/c59dfed6-e3b6-4a0c-ba6d-9a0661bab45c
 
 Video Demo:
 https://youtube.com/shorts/zBjabYpsvgw?feature=share
