@@ -10,7 +10,7 @@ Esse projeto foi feito para o trabalho avaliativo (AV2) de Mobile 2025.2!
 - O design é simples e funcional, com temas claro e escuro
 
 
-Você pode usar o link do expo abaixo OU pode seguir essas instruções para executar o projeto
+Você pode usar o link do expo abaixo, pode seguir essas instruções para executar o projeto OU pode baixar o APK nas Releases
 
 # Passo a passo para rodar o projeto usando o codigo do github
 
@@ -35,6 +35,10 @@ https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/5da4e4c7-92be-4a
 ## build Prod (AAB)
 
 https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/c59dfed6-e3b6-4a0c-ba6d-9a0661bab45c
+
+# Link do APK
+
+https://github.com/GB-23/app-habitos-diarios/releases/tag/Testes
 
 # Video Demo:
 https://youtube.com/shorts/zBjabYpsvgw?feature=share
