@@ -24,12 +24,13 @@ npm install
 
 - Passo 4: Rode com npm run android
 
-
+--
+Nota: o Expo continua falhando ao compilar o APK, o AAB funciona porem a mensagem Worker configuration failed. sem mais informações continua aparecendo.
 
 # Link Expo Dev:
 ## build Dev  (APK)
 
-https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/0d939822-5804-4716-9ae6-0b5271c4f4d1
+https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/5da4e4c7-92be-4aec-9d72-0cb4507a8bf0
 
 ## build Prod (AAB)
 
