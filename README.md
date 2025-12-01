@@ -12,6 +12,8 @@ Esse projeto foi feito para o trabalho avaliativo (AV2) de Mobile 2025.2!
 
 Você pode usar o link do expo abaixo OU pode seguir essas instruções para executar o projeto
 
+# Passo a passo para rodar o projeto usando o codigo do github
+
 - Passo 1: Baixe o Projeto do Github
 - Passo 2: Extraia em uma pasta
 - Passo 3: Execute o comando abaixo para instalar as dependencias
@@ -24,16 +26,18 @@ npm install
 
 
 
-Link Expo Dev:
-build Dev  (APK)
+# Link Expo Dev:
+## build Dev  (APK)
+
 https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/0d939822-5804-4716-9ae6-0b5271c4f4d1
 
-build Prod (AAB)
+## build Prod (AAB)
+
 https://expo.dev/accounts/gb-23/projects/habitos-diarios/builds/c59dfed6-e3b6-4a0c-ba6d-9a0661bab45c
 
-Video Demo:
+# Video Demo:
 https://youtube.com/shorts/zBjabYpsvgw?feature=share
 
 
-Grupo:
+# Grupo:
 - Gabriel Alessandro Da Luz Santos Do Nascimento
